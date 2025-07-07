@@ -5,3 +5,4 @@ class hello
 	 system.out.println("hello.java")
 	}
 }
+"print hello"
