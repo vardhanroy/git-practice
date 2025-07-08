@@ -9,14 +9,10 @@ public class Main {
     if (num == 0 || num == 1) {
         flag = true;
    }
-=======
-public class main{
+   if (!flag)
+      System.out.println(num + " is prime);
+   else
+      System.out.println(num + " is  not prime number);
+  }
+}
 
-  public static void main(String[] args) {
-
-    int num = 29;
-    boolean flag = false;
-    if (num == 0 || num == 1) {
-        flag = true;
-    }
->>>>>>> 2c9978a311651744ccf21ba3969c9b38f3542ffc
