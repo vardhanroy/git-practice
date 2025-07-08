@@ -5,6 +5,8 @@ class helloo
 	 system.out.println("hello.java dev2")
 	}
 }
+"print hello"
+<<<<<<< HEAD
 system.out.println("vardhan")
 =======
 system.out.println("vardhan roy nagisetty")
