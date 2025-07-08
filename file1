@@ -1,0 +1,9 @@
+public class main{
+
+  public static void main(String[] args) {
+
+    int num = 29;
+    boolean flag = false;
+    if (num == 0 || num == 1) {
+        flag = true;
+    }
