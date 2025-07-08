@@ -1,0 +1,10 @@
+public class Main { "git labs"
+
+  public static void main(String[] args)"hello"
+    int num = 29;
+    boolean flag = false;
+
+    // 0 and 1 are not prime numbers
+    if (num == 0 || num == 1) {
+        flag = true;
+   }
