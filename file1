@@ -7,3 +7,10 @@ public class main{
     if (num == 0 || num == 1) {
         flag = true;
     }
+    if (!flag)
+      System.out.println(num + " is a prime number.");
+    else
+      System.out.println(num + " is not a prime number.");
+  }
+}
+
