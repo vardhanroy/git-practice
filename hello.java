@@ -1,8 +1,8 @@
-class hello 
+class helloo
 {
-	public static void main()
+	public static void main(string[])
 	{	
-	 system.out.println("hello.java")
+	 system.out.println("hello.java dev2")
 	}
 }
 "print hello"
