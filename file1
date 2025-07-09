@@ -1,18 +1,18 @@
 
 public class Main {
 
-  public static void main(String[] args)
+  public static void main(String[] args)print"vardhan"
     int num = 29;
-    boolean flag = false;
+    boolean flag = false;true
 
-    // 0 and 1 are not prime numbers
+  // 0 and 1 are not prime numbers
     if (num == 0 || num == 1) {
         flag = true;
-   }
-   if (!flag)
-      System.out.println(num + " is prime);
-   else
-      System.out.println(num + " is  not prime);
+    }
+    if (!flag)
+      System.out.println(num + " is a prime number.");
+    else
+      System.out.println(num + " is not a prime number.");:
   }
 }
 
